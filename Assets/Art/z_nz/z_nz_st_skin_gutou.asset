@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b43e0a9ca2846a4aaf46e9e964bdd41, type: 3}
+  m_Name: z_nz_st_skin_gutou
+  m_EditorClassIdentifier: 
+  rootBoneName: Bip001 Pelvis
+  boneNames:
+  - Bip001 Spine1
+  - Bip001 Spine
+  - Bip001 Neck
+  - Bip001 Head
+  - Bip001 L Clavicle
+  - Bip001 R Clavicle
+  - Bip001 Pelvis
+  - bone05
+  - bone18
+  - bone17
+  - bone14
+  - bone13
+  - Bip001 L UpperArm
+  - Bip001 L Forearm
+  - Bip001 L Hand
+  - Bip001 L Calf
+  - Bip001 L Thigh
+  - Bip001 R Thigh
+  - Bip001 R UpperArm
+  - Bip001 R Forearm
+  - Bip001 R Hand
+  - Bip001 R Calf
+  - Bip001 R Foot
+  - Bip001 L Foot
+  - Bone039
+  - Bone037(mirrored)
+  - Bone036(mirrored)
+  - Bone035(mirrored)
+  - Bone037
+  - Bone036
+  - Bone035
+  - Bip001 L Finger0
+  - Bip001 L Finger1
+  - Bip001 R Finger0
+  - Bip001 R Finger1
